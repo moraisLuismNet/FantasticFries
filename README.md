@@ -1,6 +1,6 @@
 ## FantasticFries
 
-**FantasticFries** Website for a fictional restaurant called FantasticFries created with [Astro](https://astro.build/). The website features a modern and attractive design, with sections for the menu, contact information, and an "about us" page.
+**FantasticFries** Website for a fictional restaurant called FantasticFries created with [Astro](https://astro.build/). The website features a modern and attractive design, with sections for the" Menu", "Contact" information, and an "About Us" page.
 
 ![FantasticFries](img/FantasticFries.png)
 ## Features
